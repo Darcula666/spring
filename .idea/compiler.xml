@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="spring" />
+        <module name="springForjdbc" />
       </profile>
     </annotationProcessing>
   </component>
